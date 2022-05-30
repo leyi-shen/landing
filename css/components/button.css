@@ -1,0 +1,18 @@
+.btn-dark {
+	background-color: #C06014;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Roboto';
+}
+
+.btn-dark:hover {
+	background-color: white;
+	border-color: #C06014;
+	border-style: solid;
+	color: #C06014;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Roboto';
+}
